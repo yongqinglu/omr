@@ -13,7 +13,7 @@
  *      http://www.opensource.org/licenses/apache2.0.php
  *
  * Contributors:
- *    Multiple authors (IBM Corp.) - initial implementation and documentationadad
+ *    Multiple authors (IBM Corp.) - initial implementation and documentation
  ******************************************************************************/
 
 #include "AddressOrderedListPopulator.hpp"
